@@ -22,7 +22,7 @@ import java.util.Scanner;
  */
 public class Main {
 
-    
+
     public static int getPositiveInteger(Scanner scanner) {
         int number;
 
